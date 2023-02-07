@@ -1,5 +1,3 @@
-# gho-bug-bounty
-
 # Bug Bounty
 
 ## Overview

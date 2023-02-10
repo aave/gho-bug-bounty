@@ -39,7 +39,7 @@ To be eligible for a reward under this Program, you must:
 
 ## Disclosure
 
-Any identified vulnerability or bug must be promptly reported to the Team via security@aave.com. The report should be submitted within 24 hours of discovery, and the vulnerability must not have been exploited or disclosed to any third party, except the Team, before the report is submitted and the issue is fixed. This includes avoiding any form of publicity or dissemination of the vulnerability.
+Any identified vulnerability or bug must be promptly reported to the Team via gho-security@aave.com. The report should be submitted within 24 hours of discovery, and the vulnerability must not have been exploited or disclosed to any third party, except the Team, before the report is submitted and the issue is fixed. This includes avoiding any form of publicity or dissemination of the vulnerability.
 
 ## Rewards
 

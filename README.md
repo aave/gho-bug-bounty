@@ -1,5 +1,7 @@
 # Bug Bounty
 
+Deprecation Warning: This Repo is no longer the bounty program. Please submit a bug through our community driven bug bounty program on [Immunefi](https://immunefi.com/bounty/aave).
+
 ## Overview
 
 Ensuring the security of smart contracts is of utmost importance. To that end, as of [06 February 2023], the codebase of GHO - a decentralized, overcollateralized crypto-asset intended to maintain stable value - is subject to the GHO Bug Bounty Program (the “Program”). The Program provides an opportunity for community members to report “bugs” or vulnerabilities for a chance to earn rewards. The aim of the Program is to motivate the security community to take an active role in enhancing the security of open-source software.
